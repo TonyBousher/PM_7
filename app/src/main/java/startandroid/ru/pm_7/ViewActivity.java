@@ -49,7 +49,7 @@ public class ViewActivity extends AppCompatActivity {
 
         drive.add(new Electric_motor("02m071","3-Й Рафинер лиственной целлюлозы", 750,1490, 3300,160,"HV2-3","WEG","HGF400C/D/E","B3","NU224-C3","6320-C3"));
         drive.add(new Electric_motor("02m075","2-ОЙ Рафинер лиственной целлюлозы", 750,1490, 3300,160,"HV2-4","WEG","HGF400C/D/E","B3","NU224-C3","6320-C3"));
-        drive.add(new Electric_motor("02m082","Cвинг рафинер", 750,1480, 3300,163,"HV2-5","LAURENCE SCOTT","BS500","B3","6219",""));
+        drive.add(new Electric_motor("02m082","Cвинг рафинер", 750,1480, 3300,163,"HV2-5","LAURENCE SCOTT","BS500","B3","6219-C3","N215ECP"));
         drive.add(new Electric_motor("02m088","2-Й Рафинер хвойной целлюлозы", 750,1490, 3300,160,"HV2-6","WEG","HGF400C/D/E","B3","NU224-C3","6320-C3"));
         drive.add(new Electric_motor("02m511","1-Й Рафинер лиственной целлюлозы", 750,1490, 3300,160,"HV2-7","WEG","HGF400C/D/E","B3","NU224-C3","6320-C3"));
         drive.add(new Electric_motor("02m034","Осветленная вода на спрыски высокого давления", 150, 2975, 3300,32,"HV3-2","LAURENCE SCOTT","SQ D315/710","B3","",""));
